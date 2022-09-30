@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WebSite2022</title>
+</head>
+<body>
+    <header>
+       <img src="images\rl_logo.png" alt="">
+       <ui>
+           <li>Home</li>
+           <li>Services</li>
+           <li>Portfolio</li>
+           <li>Contact</li>
+       </ui>
+    </header>
+    <article>
+        <section id="titleBar">
+            <img src="images/tokyo.jpg" alt="Tokyo bliding">
+            <div>Red Lantern Lorem ipsum dolor sit amet.</div>
+        </section>
+        <section>
+            <h2>Welcome to the new Red Lantern Design</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum perspiciatis impedit distinctio neque laudantium eos explicabo unde doloribus voluptatibus quia reprehenderit, deserunt quod amet voluptate voluptates saepe, beatae sint? Ad!</p>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Distinctio commodi ipsum repudiandae ipsam corporis dignissimos minus. Consequatur dolore eos esse quos facilis corporis fugit commodi, nobis eius, eum debitis error!</p>
+            <ui>
+                <li><a href="#titleBar">View our full porfolio</a></li>
+                <li><a href="contact.html">Contact Red Lantern</a></li>
+            </ui>
+        </section>
+        <section>
+            <li><img src="image/markinjapan.jpg" alt=""></li>
+            <li><img src="image/a2g.jpg" alt=""></li>
+            <li><img src="image/foobar.jpg" alt=""></li>
+            <li><img src="image/rpm.jpg" alt=""></li>
+        </section>
+        <footer>
+            <p>Copyright &copy; Red Lantern Design,all right reserved.</p>
+        </footer>
+    </article>
+</body>
